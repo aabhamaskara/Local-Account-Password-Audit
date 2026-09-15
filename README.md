@@ -8,6 +8,8 @@ user accounts on a Windows machine and flags accounts that either:
 - Have a password set to **never expire**, or
 - Haven't had their password changed in **more than 90 days**
 
+Sample output of deployed script uses anonymized account names. Real account identifiers were redacted before publishing, consistent with responsible disclosure practice.
+
 ## Why it matters
 Weak password hygiene (when accounts create easy conditions for attackers because of weak or old passwords ) is a
 common finding in real-world security and compliance audits. This script
